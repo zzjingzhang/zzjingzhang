@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 ![Node](https://img.shields.io/badge/-NodeJS-%232e8b57?style=for-the-badge&logo=Node.js&logoColor=%23ffffff) ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=for-the-badge&logo=webpack)
 
 <a href="https://github.com/zzjingzhang">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=zzjingzhang&show_icons=true&theme=radical"/>
+  <img height="160" src="https://github.com/anuraghazra/github-readme-stats/api?username=zzjingzhang&show_icons=true&theme=radical"/>
 </a>
 <a href="https://github.com/zzjingzhang">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzjingzhang&layout=compact&theme=radical&bg_color=30,ff758c,e4efe9&text_color=ffffff&title_color=29323c"/>
+  <img height="160" src="https://github.com/anuraghazra/github-readme-stats/api/top-langs/?username=zzjingzhang&layout=compact&theme=radical&bg_color=30,ff758c,e4efe9&text_color=ffffff&title_color=29323c"/>
 </a>
